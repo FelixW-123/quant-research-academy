@@ -1,0 +1,961 @@
+{
+  "items": [
+    {
+      "title": "Fed's Warsh says AI path will be 'very bumpy' but ultimately 'very good' for wealth",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxzSlg5TFdlNlE5TkVoRWVLNFVqbXJuamxaRHRfd0tZbnp0aDRXREgtMHg0aDFVWC16V1BuRXJHODltRlJfWHpaRkFPV0ZMZy14OU5JVGNRaXZ3clJfYUdZdDVnaE5wblItNmRWbUotWFpORWMxNk5Kd1h6NlY2VHNRSTdsSkhaYUhIVURTcFJ6Uk5sdExn0gGcAUFVX3lxTE5fZ0p3aTI2eFQyanZ4TmtGV2hkM29JS21sTlBXZkRfdGZjbFE5aGRJcVVBOXI5d2FlRURrMDFZbVEzY19rRFQ4alJwR0JXbk1fN1dSanpLRG00WGRIWnZZUnpCR19WRnMtUmpkNUZJb1VVRFF1QzRFM3p6ZGcwUWlKaUE1elFxRWlNNl9TTEZWZkR6UWlqa0xxdlNOYg?oc=5",
+      "published": "2026-10-16T04:08:27.000Z",
+      "source": "CNBC",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Most Asian stocks rise as calm returns after CoreWeave shock; Indonesia faces market downgrade",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMUpLRUNwWEpRNVpNVWJPOWQyQXdKRjkzdTU5RjFiOUxpUFZGU1ZBa1VaS3ctN0xlc0lSMkptbUVMRlprcFFtZ3B6Z2ZFTG5XX2FBUHBoSk4xRTdiQm1ucERORXE4ZzNFZ09ySlpvUDlzb0tGUjFQZ3c0UmotdEstMEZCUQ?oc=5",
+      "published": "2026-10-16T02:52:00.000Z",
+      "source": "Reuters",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Oil heads for weekly gain with Mideast supply risks",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ?oc=5",
+      "published": "2026-10-16T00:57:00.000Z",
+      "source": "Reuters",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "CELH Stock Heads For 16-Month Lows After Q2 Earnings Miss Sparks Massive Selloff – Retail Eyes Guidance Update",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSDJhaHpUX1RqRDh2MHZNdWJ0WE95ZjhmNDRMeFg5ZW1wVTR3WnltVUV6aWtFY2F0ZW9rWUJWM1FESXctbHMxYk1CZDdpbERlVUV5a3plYzY5TW40YzVUQjI1R1l1VGpsdV9QemRJaXpObTdvTmUtQmw4Wm5lVVhDYjlvQVdtOHBMMjZZMWNraUlhZmc4VEc4U0hvei1odHZtWmMwZ0p5aGt5amt1LXV1SHNsblI5ZkNPNWV3MlBB?oc=5",
+      "published": "2026-10-16T00:11:23.000Z",
+      "source": "Stocktwits",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Market selloff, rising rates test AI data centre deal boom",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkF0Z0d5VTdCU1hISVI0eXNTUnpGOFlXc1BwM0dHWEJ6SWs2REc1TEdFdUtQRlRYTUM4TXRqcnFYZWlldDdjQnhLQ3ZQVmdrYXVvTWhwSGRnejRLLXBjbms5Z2pRMEJVWlp5Yks5WG5Tck9ZYXJaVDk5ZGZyanhEQVJUOXJMM0hBTzRTNnVheFlkcmpUSzdadi12VmZlbGFEWjA3SXEzcnJ2TTRXMkZv?oc=5",
+      "published": "2026-10-15T23:48:17.000Z",
+      "source": "Reuters",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Stocks end higher as traders shift from AI to healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XMjdxNFFLRXdzUDJiZ3VGVzd3M3BHOXVMRFZFbURPbUNMWDJXUE96dGoycndHS3hQcFA4SE5CVV9oQVBmY1NLZFYwYUN5dTFPSjU5M0FOM19nbzVvWkJsUHFwalg4VTA?oc=5",
+      "published": "2026-10-15T23:42:27.000Z",
+      "source": "Reuters",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "S&P 500 ends higher as traders shift from AI to healthcare",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTRob0s4X3hCYkZQZzFfeUxuU1ZlN0tPT2hvelcwcW9QdU9yeVN1ZUZfR253ZUNoN3NjUlRHbG9aS0wzMmVGLUpNOVcyTUlHOWo3WERDX1psTXlmWGthb0JPN19GMGxnT2pkYkRWQ0R1THEyODhoWnZTd1NIQjdZbm5fLXNYb0M2c1g2YU02TENSSi1xSFZMQzRuUTc?oc=5",
+      "published": "2026-10-15T23:24:51.000Z",
+      "source": "Reuters",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "RIVN Stock Clocks Best Day In Over 3 Months: Governor Pritzker Hails R2 As The ‘Model T Moment’ For EVs",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdDM1MnNZZG9UZnZCaHVRaFNqWlpUUGZNWXRJdUM3eTZjSlVUSjFKQ3dQYTcxWE1VUk9UYU5rRHBKNGkxRjhTdjhUcFNKVW5xcGkxa2lkeDVjOHoxUWhWSHRqVS1GTHVSN1lCRkdUYmlqUzhCRC1yTVBDQXVma0RBZEhhMTZ1ako3Z2pHRVV0eFktRGl3TDNacENlSFdFcFF0dkV5TXg0c2cxd3dTN3ZYbkVFMHNQaHFmN0pTcE5RTUN5dVFUZjdZeG90c0JnS1E?oc=5",
+      "published": "2026-10-15T23:06:12.000Z",
+      "source": "Stocktwits",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Fed's Hammack warns inflation expectations deterioration could require Fed response",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOLXVDZHBMOG1XYVprWDRUYkg3RlFsUEltejhKMGpzVTYyNG53NDQxMnJJT3ZTR1FOMEFXTENQOGgtOWVSRnZQZDM4ZVNIQUJza2tGNGxVM0hhNl9wdEVOXzZ0blM4YzROcmExZzF0NlhZUlU0eHNlbE5iYzJZWi1nUkYzckdGYTRQVk1KaTQ3SVdoY2wybWszZ1g4LVp2d1NSZ3FaUWJCU0lFT2s3UFlRTEhhSDhJRWw2UGFvRDZyUGdMYlk2Qk1ZcVMxRDJWal81UmdwdkpRRVpZa2lkRTJDekdHc2x0cnRqSnZzTW5nbTZBWXpYdVBrd0F5U3lwaUh6MExxMGI1TkswWmUzS1E?oc=5",
+      "published": "2026-10-15T21:53:55.000Z",
+      "source": "Central Oregon Daily",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "India raises windfall tax on petrol, cuts duty on diesel",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3ZFXzhIZDFZNFRJUnBMSktQd0xFd3pPb3NlekhlNTFBdFdfVnZtMkRZaDhBRTlienVxbW5jMGRuTGFJRkxkODBBSmVYQUFrWkNfa1dVU2t2c2hhblJlaUdBVnpyNlhXSGNZbjF3RnJUTDdoRFNESklnUXNtWUdkVmh6R3p3dkFXLW9iVG5KemtHZW52QXJoaVloRHZhWHpZenVJdkdB?oc=5",
+      "published": "2026-10-15T21:46:46.000Z",
+      "source": "Reuters",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Growing data center backlash hitting midterms",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0FuNEdIamN4MEhSUmRaNnBCYlFES3BELVpjZ3U3dDJ2S3llbFFNRnh2TnFGbVRiUXRabTVEQVNwWkozTUplSHVfT0hGOWVoVGhJLVpFLTRWeE1nMTJ5VDV3RTNEVy1aM195RDhxRDE0aFluN3UwaE5fZGR1WEdRbjlMMFRjd2s0Rl9ZMHNIR0FNdw?oc=5",
+      "published": "2026-10-15T21:29:34.000Z",
+      "source": "CNBC",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+      "url": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+      "published": "2026-10-15T21:23:00.000Z",
+      "source": "MarketWatch",
+      "category": "公司",
+      "high": false,
+      "reason": "公司基本面"
+    },
+    {
+      "title": "Alcoa CEO William Oplinger: Growth in data centers is really positive for aluminum",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFNZQkUzeXAySVFrZ2ZENWxvRTdLSnQyMXhZMHdiajBpYnlRQWFoUjlvVnR1VGU3c1RIUkdCUXJKWlBQemxGa1A1Qmo2ZWVjWjVtVkVLUS1SRy1xSDlPa09reUZXc2JoRlNwT1JVWWlMa1VqZU04M1RyUjNTNUJSM05LdVhsbVNEZnZHcGh5b2QwcWVQM2lmSzZuVHZvWFUtNVJZN2VVZ3dabTh6UXQzYVE1NWIxZ0NOY1ppT1htRkVWZw?oc=5",
+      "published": "2026-10-15T21:20:35.000Z",
+      "source": "CNBC",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "IEA to speed up oil stocks release including over 20 million barrels of diesel",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajItTjVjRWhSaHJfNEJFdncwUU5yVU95N2RyVDdiaS04RGJfeE9RbjRIY3JaVFlTSmY4T1ZvNlVUdFdSOEczMUhKSm12ZzNRNHpueUM3aTVEcy1na2xUMG1qcm5vb2RwSFNIVHBpMmNVOVZqYml0RXYxcUNKazQyQlhUWGJxMnlhWFAySDJKaVNJdUVrZld6SUgyUWNaR1I4YWVxRUNIMkNVMm9ualR3LWNzQmJVVWR4Sk42aGhMX3FWQQ?oc=5",
+      "published": "2026-10-15T21:12:24.000Z",
+      "source": "Reuters",
+      "category": "市场",
+      "high": true,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
+      "url": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+      "published": "2026-10-15T21:03:00.000Z",
+      "source": "MarketWatch",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Diesel's surge is starting to push other prices around. Here's how",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnVzZy1POU04ODNmdEVoelpMNHUxRmJiN1BmUF9Pa0FrSlg0dGh5TlpBd1hUOGdIemRZbWUtVjFJbjRpQ3dyNFZfYzZDVFBvYVVaUmEyazE0T1lfVXpmcG9qRTFpZ1BUNDNkMUUzWGdUTklzNnJ6UUhOcl9rQklsNFo0TkU1dWlKejlNTlUyYjBpMEYxSklEckYwN0ZNZUFGV1hFX0R1Y2k?oc=5",
+      "published": "2026-10-15T21:00:45.000Z",
+      "source": "Reuters",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
+      "published": "2026-10-15T21:00:00.000Z",
+      "source": "Reuters",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Bond investors reassessing risk in AI is a 'healthy sign,' says Janus Henderson's Seth Meyer",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR1VITFoyLTBzQmt1X3dDRHNxODRVVXJSTFhaQzUyTUxmSU4xZFUtc0xfa2JXU184dnBaZGxpa19xcHRQNXdQYUczcnVRZTNwMExCMElwN2xIT21qcTlWMjM4WnQxMGRiYkR4Ukd0V1o0TUZkSy1GY09RLWJMOFNNaGJGTXlFVkZ5X3NrT3IzZUEtelY0VXd1SUR2eC1uMmh5blNXOFlieHZkWjVIZk9scUU4OGplVzk2bFRmMDlQRzNuQ01kT1g5LUdYdw?oc=5",
+      "published": "2026-10-15T20:53:00.000Z",
+      "source": "CNBC",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
+      "url": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
+      "published": "2026-10-15T20:40:00.000Z",
+      "source": "MarketWatch",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Will see huge wave of bankruptcy when neocloud over-investment ultimately implodes: Dan Niles",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSFNUSHpYRjB5QUgtX3RDX0lLWkJxN1NIRVBRV0dlT3o0WXNBVWJQRUVXX0wtb1psZGZOd3RzMW9nLV9hZ2tBTmJMUlRIZlo0S0FMclNFVm9xdHRMQmVvMmVpU0x4SlNYUmloc3BIbk9xYk9vMnYxc1NHRFNNcnZ5TUdKWkZ5bW5qemNxaDUtclIyMmhpUnAzU0E5MklKYldxbDA3MDJNSF9iRzNxQzJwYnl4WHQyUjBjdEpDdzFiTHhOaFlObDg5djF3UUtkMDA1?oc=5",
+      "published": "2026-10-15T20:33:57.000Z",
+      "source": "CNBC",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
+      "url": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
+      "published": "2026-10-15T20:29:00.000Z",
+      "source": "MarketWatch",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Will the Fed raise interest rates this month? A Kevin Warsh speech could offer clues",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1YY3gtQVZrcEhOQm9iNE1idzlmNnRZTzQxOXd6dUl2XzBhZTBsZk04a1U1R1VBbEw0VG1keFVhdUNrUEc2N3JlOGVCcDhtLXR6NG1OLTc2OE9RM0hKM1J5N2tCTnVvNEJyR1FhUXA4dFYwMS1BTmszaHZSODNHWjJIQ1NvQU1SMGdzbzZjVHhwTWc1VlJqOWlaTXBvWVRjNHNMXy1CdDM?oc=5",
+      "published": "2026-10-15T20:28:24.000Z",
+      "source": "NBC News",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "US closes mostly higher as Treasury yields retreat",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFlvWWhLYWZfZGtqa3lidXRjV1NXZ1Jyd1B0MjJud1hJdjlCbmppTzMzNzZ2TWN6ZmlLbGg5dU5Ec19yN1pySzJCUXU3dzl2MThnU2h3ZWdPR3VhVDRiYWVzRzdjRUNQS1NXNTJ1U1Npbm5jTzFqdnZkU3ZOSUxUTWJBVEVVTnFBZ0FUTGxzTDBFTTBCbmxmeUROazgxeldiUlU1ZXhyVmxpN0otYjhB?oc=5",
+      "published": "2026-10-15T20:01:00.000Z",
+      "source": "Breakingthenews.net",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Most U.S. stocks rise and steady Wall Street even as AI stocks keep swinging",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWVNLT1pYT1F3bWdZOUxYVHF4bTg4enhkblhWRDlZWDFVZFdPWWJBRk84a05lTDJXNXJvVUR4djhTMGxzOW1ZbXBLalVNVllzcDNOandhelhGeVVNcllCMVBvTl91bXk1VmlNaHNnMFRCYU1UdlBvZzExay1LM0JnMWxWQmZ4bXRrOGRabzdwaDBkMTlzaVBRN2NjTGNjMC0yczc4ZXZpWXBGSWI5cE9MaGJHQXZrNHJCQkFmZVRFTXFqQmtKb0Q0NnJ1Tmd1ODZVc3BHRDlfWENUTnZsbXQxUUFCanBKdVRmWWRRR001WW0?oc=5",
+      "published": "2026-10-15T19:16:11.000Z",
+      "source": "Star Beacon",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Fed Rate Hike Odds Rise to 54% After Inflation Data: Gas Prices, AI Data Centers Drive CPI - News and Statistics",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUtfaVU3MXd6OEtkMkQ5Wnh1dDh0VGMwc01tMWRMenlrMlRkcC0teS1hVmVVVUpHb2J3SnhCSDlZVEt6bHZBa1dEQnVELUdiemF2Z1B2dDFVUUxLeWIzU2lGNm5iNm9kR09GR3BzTExwZEVHWFNieUxjc3h5UnRLc1ZzNld3ZVVJU1NmckwwdDVBM01DWV9qZWQ0ZXRmcERXSGllbENB?oc=5",
+      "published": "2026-10-15T19:11:04.000Z",
+      "source": "IndexBox",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Accelerating CPI Inflation Raises Prospect Of Further Fed Rate Hikes",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlVtWF9VVGwzM1VhTGdNcVdjeldVc0J3RnFnNUNrWDBHeVhwSWxWbXMzVVM2azVzd2RCdFNjTUdHZktTampxLUp0b0JORDdtZHR0SGlQaVgyczlaSE9HMnhOa01UdUVfaUc3alh0ZlJDdi0zdXJqS1NYMVJYY0FZbzJ4amZCMUxRQ1lKOFJCZjFyWHJTbXB2Y3JCeF81c0RCbE9CYWEtWEtzMnpHZ3lsc05UdkZVdWh4Z3hzTQ?oc=5",
+      "published": "2026-10-15T18:45:39.000Z",
+      "source": "Forbes",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Wall Street steadies following jarring drops for AI stocks worldwide",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUjlQSEJjV0gyam14ZDlxd29saHJvajJ4WlNaQ29ySG5RYnlHcm9Bb2oyRDgyTHUxT3dUMGNRSFZmMFEyM3lnVTFJek1wYUZmaFJreldCUjkxSVZ1UFBmbUloeHR5WHB2OU9xa3paME9XVVYwVXQyZkcwYTYydGp6d0d6blI0TnFLYkRuRmJWY1hsLWdyOUF4Q3U2TWdLOXRDYUc5b2FpLTlNOWZHQWRPdG9vLXVYS09JaVlYc2xB?oc=5",
+      "published": "2026-10-15T18:37:50.000Z",
+      "source": "WCCB Charlotte",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "TSMC Stocks Fall 3.6% Although $560 Target Meets a Margin Hurdle",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVTE1WDZHU2dqUHR5Qld0cUZ6a1QwSFlFLUNjNUF3LTVUbFhqM1l2bzRjWXNMaGJsbWl5U1NMcklDMHlzbVAtYlRFNWxadUlSNkRtVjVpSXlnakU2aXBSUjlLcURpcFQ0NFpablFrcUgtVFZURTJ4VWJhQV9vb01GWkZZVVlpMUU1WGVlZ2h1Nmg2NGJpeHlrUEhjNTdhRnV1WWZHVmo3VDZxeG1mdEw3ZnpFTW1JX01FOFhJeHBXUQ?oc=5",
+      "published": "2026-10-15T18:32:19.000Z",
+      "source": "TradingView",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "BNY stock pops on strong earnings — showing exactly why we like this bank in this market",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTU1TNjJyYW4zZV9aUkpGLVJ3LW1idXVUMzNyalN2Qm1ZUVdjUmV6U2pLTGZHYXBmRkNNRzJULWJLdlBOa0FSOElWbDVVdHNCRGp2a1RlbkZtT1JHQVNPa0VxMnlFcHFZemhUbWpmWkU3Z0JscW5Ea0ZCNm4tYWVXZVUxako1YjRmcC1TQ25IbVJDNWdzSV9JeFZQQXFvVnFVZ1ROZnEyRFdIYjl6LXFjeF80U3h0dXhnUHNPVzlxekRQeUpuUmR5blE0TU1yOXE2b2l3?oc=5",
+      "published": "2026-10-15T18:16:41.000Z",
+      "source": "CNBC",
+      "category": "财报",
+      "high": true,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Gold Tumbles Below $4,100 as Hot US Inflation Revives Fed Rate-Hike Bets",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BdFNHcW4tNTQ3clY3NXJCdHd0SjBSYVBpVWFBcDV1WGVEcnRnaWNYQ2ZlbklJdENic1hNY1NkbXlQNVRyYk1qclI3SklTYllTYXd4cjU5enhiaVgxb00xNFBwWHlxaThoRFR4cFEwVDRpSFF1WGc?oc=5",
+      "published": "2026-10-15T18:06:00.000Z",
+      "source": "BigGo Finance",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Stock Market Today: Stock Market News And Analysis",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+      "published": "2026-10-15T18:00:00.000Z",
+      "source": "Investor's Business Daily",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "iCapital’s Dan Suzuki: Oil is the single biggest driver of the near-term path for inflation",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb0RCNHB2NTk0OFZtejY2SXpOS3V6aHhkTjFYQndDQ050ZUJMTmxjMzk5anVsSGZlY1cwcnVOZjIzWnlWVFhNLVlqdFJhZ2pheU93UUEzRlgtVEFnVXVvbFlIY3RIUHMwcTJteW5jb2ZqbktCZU9yUVFCVWxXaXd4elFIdnZrYUV1RUpPVWFUMjZSMml2TzNnV0ZHRlRzTDl3cmtOekU2M2l2eHdiTjhiN0F6SHRmbjRMLTJuTUE2Y2lRVGl1YkxoQksxaUxQdw?oc=5",
+      "published": "2026-10-15T17:50:55.000Z",
+      "source": "CNBC",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Nebraska attorney general on OpenAI suit: We are confident we can demonstrate harm to Nebraskans",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZGpsV0VWR3prRHZGN0xocTNzRFFtZEludnNlY0pmWGMzTmdkQThzbE5fYklWYjdabG1xMkh2cEF6R0RPU3hPSHhyV1FzX1ByQXVxeExlSHplZlRiV2lKZ2h4V0Ywb3V5WWpiTHppUWQxZFBUMWVrU3luMlJ3dkpNWDRzTXBHdUg5Qm5jQXFCbTM3aXZJMTVPU0hYRWtyWTVmRjZNa19FU05uNWN3SXBBcnFxbGJjREdvb0NnbWtHSzEtWE1pWTNlTm5TQkNJdm9uUHRRdg?oc=5",
+      "published": "2026-10-15T17:34:30.000Z",
+      "source": "CNBC",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Retail sales surprised to the upside in September, says EY’s Gregory Daco",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNXlpc2xLdTlDbnlFbGFMM3p6ejBnWm5JSjFnSEZndTExMEcyY2pPLWFXYXM0eFRuR2FScmxjWl9SVEdXY1QwZHRobGlGQUVLUGhNV01OU1FVUEZ1eFZnWlZGMS1MUC0ybXFoV0RmX0IzSzhTTjRXREZveWwxcVhYNFZNQ2pfdlRXMEY5ZE9MdkFPTi1ZUVRtcmNrNkNFRzFFRUJtRmQwODBxV1lNbEoweU5sS3RNZw?oc=5",
+      "published": "2026-10-15T17:10:10.000Z",
+      "source": "CNBC",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "How Aramco learned to keep pumping oil under fire",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMEo4RHMzbGVMLUpQcnFqT28tSlU2Q0FBUlZtc2MzaUZSLXpsd3o3X1VGQXplLWJUaUJuQ1BCbFdVbzZwZUk0OURuZ0dmcWVkaWNaclNBcHBlRGR1bWViNWROR21UV2pSRTdqNDZfUVFDdHR2TG9lUDd5eDlNRzVtWHRVNFI5d3I4MUtQdG04SVA1OURzQzI5WXk3N3ItUEE?oc=5",
+      "published": "2026-10-15T16:57:37.000Z",
+      "source": "Reuters",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "US 10-year Treasury yield levels not unprecedented, BNY CEO says",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUzhYSEVjZzZiS1NmeVZ6V2d6OG5oTDFuak5yWWZyb2NqeGFWZEMxTFBBTWdhV1ZMN1F5Q191M3VuZ2szMzZDT1dPS3l0bTVlWHVkQnNFSFV6YVJnZDFfdW5OYllhTmZFeTBCUTNZVkpueHlESlVzSFVRZWZwQmlSVlJCR3hPR29jNlBhM0NlLUN2c0t0Sm0zdkdYMnJ3V0VGc29QRzEwZjlwaXV0YVIwUU8xd2xEZWc?oc=5",
+      "published": "2026-10-15T16:39:54.000Z",
+      "source": "Reuters",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Nippon Express grows revenue 12.40 percent while Nippon Express stock trades at 76.13 times earnings",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUEhCQ2V4WnoyZ0Nja2JGNjV3ODZuR1M2S2tRN3NfaGp2LTZRUHA3TFdiZS1SRUhXUmU2dC1ubjF5VS1SbzhlaDVRaUI1TjBxUjZlR1BvX0ZDb0RFaG5KYS1ROWZ1SVliMHU0RDRabkRZUFVfU2I4Tm1GdmZOUWxFOXRvaXJYQkJrWkFDdExTcmlYbTVPcnFmUTEwcG1LM0VWQ0NOaHZRZkVWelg3UW5vU096Qkk4elQ3R0pYa1d3YURmenUyeDAxZm15X1gzMjNBNWFjN3oyNFp6OWlJVE5LQkdwdnN3Ym50cDI5U3I5bk0?oc=5",
+      "published": "2026-10-15T16:34:37.000Z",
+      "source": "ad-hoc-news.de",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Germany plans AI cooperation deal with Nvidia, Handelsblatt says",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMENmUllvcDNtemJGTUdXYlh1UWRmNUVLTzNreFJOSWtKZVowMHk1WHMzNmwweHY2NVJZU2hxR0NOa3BVOG80YXN2SWN0U3J0R1RjYzc5blkzdVBsaTZhVDFCc3dyNUl0QVhpY0Q4OUdsZi05UU5xTEdCQXBVdGJWRVl3R0ZnTUhIeE5PdVItY0RvVHBWYXNsVlV5OGFQNGtCSkVYWFdXa0ttSWVf?oc=5",
+      "published": "2026-10-15T16:29:44.000Z",
+      "source": "Reuters",
+      "category": "公司",
+      "high": false,
+      "reason": "公司基本面"
+    },
+    {
+      "title": "The committee will likely move in October, says former Fed President Patrick Harker",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczFvcS13cm10a1hvTnN1SlY3TVBOUXNTTFpzR0VoTmRYa0prQTRwZFZuR01IX1dvLXl3c00wTU0wNWkwTHphSlkydWVBVVVKNE5qRzFMRXhmTGdLS1p1Q3R5ZXVSTTlnamxYLUhuN19lREt2aWM4NHhYUnN4YzZlVTBXcERRN0w2aGlNV3BZM2VSZnQ1b2JqV2JleWdTcmdsM1VMczFja294V2tod1VtVFRYUDNYNVJmRWhFclJlZWo2QnM?oc=5",
+      "published": "2026-10-15T16:01:00.000Z",
+      "source": "CNBC",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Investors Just Parked Nearly $8 Trillion in Cash. Is a Stock Market Crash Next?",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlqRlY4SGNLZEhoblRLU3c5dEw5a1dTVEpPMTFNTmR6S3pGOXJBanFldVp3ekpqTUoyWVo2NnBwcElMNV81Zl9vcVRsX1o3V0oxTFpQY09wZGF0bjE1TFl3QUM4VjZLb09KSlQ2QnM1eGJiV3M1YkdKZmVwS1ZLUV9BamlvcUdWbzVMWmhMd2RFM3VuMm8xTnB2TmktNnZiaGlsTnlHOFNzMkt5OEZpdUlZQ1VNOWhxUF9XYg?oc=5",
+      "published": "2026-10-15T16:00:00.000Z",
+      "source": "24/7 Wall St.",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Nations Royalty’s Maiden Quarterly Profit Puts Royalty Revenue Quality in Focus (TSXV:NRC)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlFIZUEtTGtidi1xNHlyNWIwX2RBcGltM2xzRzJ6X1J6QzJscUxqU1lfY251TWs3blBMbE5OYzBJQmE3UHlidVdlNEg5OUJrc05mUEVhRUlJbVVRNVAtbnNFSnJoaXNPUDMwbDdqSXoydEJjdlliQlF3U28xUV9FeDJ6YUlTQU02LUJuLUVNUUlvYXloc1A3bEtCQ3llN0E4ZzVVbW9Sam8tdDdnMXVjUjBTSVlDakRWNTdVRQ?oc=5",
+      "published": "2026-10-15T15:55:00.000Z",
+      "source": "kalkine.ca",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Tesla Roadster unveil set for 9PM ET",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaUo5OEpvS0FYWUhkaGY4S29laEQtSkV1eTFmOGI3Yl81Uk9VZ1pMZHNHVU83VFA0b1BRelcyZWpUb2RlZ1dUcGhlZEhOVTJYOVUtQVdUY05vVksxUFJ6OHR2N1duSkNERVhCRWNMcnpNa2d5TFZXVjNDRkRFS2xsM2c5ampKUQ?oc=5",
+      "published": "2026-10-15T15:52:00.000Z",
+      "source": "CNBC",
+      "category": "公司",
+      "high": false,
+      "reason": "公司基本面"
+    },
+    {
+      "title": "Why ManpowerGroup (MAN) Shares Are Getting Obliterated Today",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeUxzME1oR0pMRWF5Z0JRY3FRNlF6ZWlwalVsMUE3WTJJQ2poX1IzX05DVUNwdWk2WHUyWTNXMERtcjFMSFJyX0hBSDlkLWVIWlcxUjFCYkFKUE1uc1RCZUIyUVVNcU40QXprOGc1WjZKOXBYdVF0d2RBZzRvSmZDRWNGYlBuUDhnZGZHWjYxeW1YaXFsMGUzZGZoS0lrN1dNbmZuSFRMeXJkcmVwOFVLTFRSVDYtRmdiaWJZ?oc=5",
+      "published": "2026-10-15T15:50:41.000Z",
+      "source": "TradingView",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "AI-linked stocks tumble heaping pressure on indebted companies",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCay1UczJrSTZ6ckJ1aERyWHYxRUtoZlpQaUNtTXRLUnJsQUlLbGpZN1JvcVdmZFdGeEtfTUZscmMzN3p4VjNWTlRNSTYxWnlUS1V5V2N4UHd0U1M2czZvaXpNMmxQeWNweWNmeld6R2hnWjd5dDlGTXMzbXgyQQ?oc=5",
+      "published": "2026-10-15T15:44:46.000Z",
+      "source": "Reuters",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Economists: Hot PPI shows Fed's work is not done",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb01IeGE0M04zdDFRdmFsVms0cWw5Nkx4RG9YTFdtSzNLNVc2TV9vUWZFdDhDQkNWcUJSWG5FT3NPWS1KRVpoZXp2cEhPcTdFYmFJSVVnRFBaa1plWmRJanR3YS1DYUhxNzRaSnhRcVZqYXRlc1dvTVBjM3l5RlRMNlZR0gGHAUFVX3lxTFBHU3JuM3lUd1N6Q29uclNoSTJQY09yUkpTZ0d6elZLX1dLWFNZYUlpclBTTm54cDBDZ3R2V0ZPTUtDcTZLUno4LUNjTF90S0NHZlJzbTRiY3lPVDJic1J1Zlh2NGMtb1V4azVBdmtSM2sxZHhCYmFRNnR3QkNwWjFRTDA0dVE4Yw?oc=5",
+      "published": "2026-10-15T15:37:59.000Z",
+      "source": "CNBC",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Anduril CEO on employee tender offer: We're not going to have employees distracted by stock prices",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR21yU0EzcWJwcHEzbVZPX1JNYXItUVVUcEVGYkJDOFlHQXI1WVZlWi1BUDR5bXNUWUlzT1lmQU96MTNOSnFXQ0t4ZXhKeDdXU0NucGdENmt3QnFmZURDaDY4MTJYeEUyYUhpWjY0MVlXVEY3VWhTQTJvZFNfclh0dDQ4WllNcW5EbnpLNXFmOXF5aWdYcGk4MWp5cTFkUEgtdVhHc1hBUER0U0lod1hxckJVZWFEYmRYSW1rX2o5cnN4YUQ1NXBGU2NrYjZJZ05jSDBiUGpB?oc=5",
+      "published": "2026-10-15T15:24:00.000Z",
+      "source": "CNBC",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "MetLife’s Drew Matus: Look for Fed to hike rates one more time this year",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDJvbW8ybmVqcGdQVmpiRDE1aGNkcGxTUkRwOGxtU3NQX2c1TTNfdzFrR0s0SGJfMDM0OVgxOXRJeHhmOC1CZERmaEF1YzZZcVdGXzVfWWtIUHNyeTdGWjJNRnV0cTd2Tm1TNTRHWWFfV0pncUl2a0U2TERuaGxyekNuclg4V3BsdkVMOUFRUTFuV3RWM2ZhLW5iS25MZGdwSmNBVWNyeUpyQnluTEZra05yUG4?oc=5",
+      "published": "2026-10-15T15:14:00.000Z",
+      "source": "CNBC",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Data centers divide community in Ohio",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQWtadVAtblJxbThONGNhUGwxV0hLUXRmY1EtSUxQT2hlanRwLWZ5eDRIaGdnOGNIbXlyYTFyNWpoNkZ6aTlkSXJDendhWTBaQ05QdjJ4ZURtLWRlUXpKN0N1VjJpRGxxQzBJMXEtY0R0MDVnYnVYdDhLclpTS1VmcFB4YjVBaEk?oc=5",
+      "published": "2026-10-15T15:01:17.000Z",
+      "source": "CNBC",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Three stocks poised to beat estimates this earnings season",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2RwcU54eGZyLW0tNGRVUkJqNkhDRG15QTZGdEVtanA0Uk1vSkpMczJxcmZJTDUwd0JtLWhDemw2ZmlMdnppck9KWS1Edi0zWVA2cjRjZ1hLeDVJdG9XckZ5bndPY25jak9aeGpLc3c4dmRpV3N6dm5NUWFVS0dkR0tMUzdUd1hLRnFtNG1vVGVsNUNRZFZRM1BlR01JbXN2OVE?oc=5",
+      "published": "2026-10-15T15:01:10.000Z",
+      "source": "Invezz",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Charles Schwab Third-Quarter Revenue Misses Views; Sees Full-Year Topline at Lower End of Guidance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZU9VcjhaV1ktb21FVmJRNXgzM1JXOGdGd3JTNTI3czljWHgxdTQtSVBpYTJkUUxia05QSGVXQTE3NGtxazl5SmplS3A0MUE4enJ4dlBlX0RnakdOTlZWTzBuclRzVXplNW9lMEtUOEQtdkxpbXE1Y21Wc3M5VUxzRlF1aldRVXpuODhfTGZXam14YjlfSl9KVWtJcjNYeHFDRTNv?oc=5",
+      "published": "2026-10-15T14:58:42.000Z",
+      "source": "Yahoo Finance",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "SMBC’s Joe Lavorgna: I do think there are more Fed hikes on the way, just not in October",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY3hfRnhPLTdsa1NGcmM0cUc3SjBlMXBHMjlIbEkxMDdIM3BOZ29EUEZlcm1LNlhqLTBuSmdoQk43VHF3VXdvZTZvSHpmWHN1ZDVpOU5PWVBxRGV3VTJJMS1GUW9zWndYZ255WVowSDZzcDZ6YjhzS3doa2R1cjA3QVdSN2FhRTNsbkhxSzJQcHJEaFl1T2Vfb0FObjB4LXNVTDlDRjRZM0tNdWNXaTVwRmhCZ251SVRKN3ExSVl4VEdKR2NPN3JDTg?oc=5",
+      "published": "2026-10-15T14:49:00.000Z",
+      "source": "CNBC",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Macro Matters: Inflation's 'self-fufilling prophecy'",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tQkluR1RPZnY4TGNOYUZYeEdhdm1aVlNEUE0xcHYzV3NFSTN0c0xGbUhFMkFKbWdmQ1p5SWZ3YmFkLUZHZmdLbmVfcUJBaFdmZXY3TXpSRkdOLWgxcWNEVWR0T19XU01RMnZpOXBmQnFKRThkWmxBVUNTSTF4dw?oc=5",
+      "published": "2026-10-15T14:29:26.000Z",
+      "source": "Reuters",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Wall Street muscles higher despite more swings for AI stocks",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOXy1Pblp4aVN5SmM2LS1QaVFsd1pVWUd5dFVwZVprbWZpeEc3dUx2bHpHZm41ZFg5by14S3VnUmluYkVQN2d0VmlLV0dURjhJbWo5NlBDOThhZkYzSmREb3ZTOHVmQXBlbEVieHRxcENjZEthMUlNNUg1UnhpUjVZNzVWOFV5N3h5RmUtY0IwbFBlWnpfSnNNVUo1ZUJaSmdwWkM4OXpjLVgyVk1salU4R0tPdDk3RW5QbFhjdFV2MmFaS2J5UjdSck9QTWNfempVRE1zUjdSRlVBVUVFeFJvbWNocEN3TWw1RU1LQ3VubW9Gb0JXMURhU1lEaG5rQQ?oc=5",
+      "published": "2026-10-15T14:17:08.000Z",
+      "source": "LancasterOnline",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Nvidia, Apple, Broadcom in 'fierce' battle to get chip manufacturing space at TSMC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM1JWVlV1cHBxMXFDSVdYV3Z1bmpESng4cHpGV0duTG1MVWtRTC1SSHZTRUpHcFNrM3pFdmxzRGFmZWZvQ1lJWXRwaVBST2hJbkRjVHM3Vmc5RFNoekRiUF9QMXNpclpqdjBhbHAyWV9OaVpJZHFtVnpUSGN6Mm5oU0t2Z2VTU0VmRVBFWWZ6UTZ4Q3hkU1BoekIzRElLakNQcVhjdmpn?oc=5",
+      "published": "2026-10-15T14:08:05.000Z",
+      "source": "CNBC",
+      "category": "公司",
+      "high": false,
+      "reason": "公司基本面"
+    },
+    {
+      "title": "Morning Bid: Tech stocks sink",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UNjhrc1FVZHJWSkctdkNQOVBHRjFjVkV6VEFHSTVhZjNHMXV0UUpsMU4yQzd3SXZNdmN2R0YzakpqM1lmNzlnVGFwTWNreEc3VERmbDVGcnAwMHo0RldEc19wVVlvZw?oc=5",
+      "published": "2026-10-15T13:57:46.000Z",
+      "source": "Reuters",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Higher CPI Inflation In September, But Rate Hike Unlikely (SP500)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQURuRjkxZzVlSFUwYmVFOF9vM1h5VjJOa2lRSWQ5aWxyNm9BUVhUOHF4TEplX3VjZzlyaFh2R3poRHQ4dld2VWtVYklpWndJWHJlZ2ItZkk0dE1oUmlzbFNmU2pHaXRCV09GRURhYnZsekVxTUpoYjhpeUZLb1Y5SXRXRHUtVENkUTZ2UC1pTzlXR004UW40eGVCOFVVQQ?oc=5",
+      "published": "2026-10-15T13:49:05.000Z",
+      "source": "Seeking Alpha",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Small-cap stocks quietly slide into correction territory",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQUp6NlJVaVdDcXlYQ2NKMlZwWGYtOFJQTGNoZEFOUDhpTnpzVjYzOEwtS25xb1R1R1o4bi12WG1pZ3lKd0VNbHAtOTQ1emFlaDhXbFNNdkpWOVFRSEhlMVdqM1Mwb09taGloWmpUcktQb1JPN09FbXBuMWtIWEwtdWRhbWYwS3ppTlJqTm5n?oc=5",
+      "published": "2026-10-15T13:48:56.000Z",
+      "source": "CNBC",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Savings Rates Forecast: How High Will Rates Go In 2026?",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iVWVweFNySHFjY3lqTDl6aDdaRWtYeHZvcVI1cW5XblJrcTc3cXdXVmpaVW00VGlEMmZyWTlJYWphc05iTHNPSm5IMFRwd3M0YVFCWXBFcEFQdnU2UXJTZzVUNS0wd2pNbjN1SjdGTmVXMGpPRlVZRHlB?oc=5",
+      "published": "2026-10-15T13:45:00.000Z",
+      "source": "Forbes",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Earnings call transcript: ManpowerGroup Q3 2026 stock falls on mixed results",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXh3Q2NTbFNNd2JHV2pROXVkcTRJeU9CTURhV3hRSEUwdHNQZDlDV0lFZU1xVHMtYWRSQVJ6WlpYT2xuMDVjT2tZRTN0UHBhajVIVTBoNVpsZ2xUcnpOQ2pMUzBqWW5nMWgyS0haLTVPdnROY1g1c01UQ3pqdHpmZ05nTFJEQ0Z6OF9UZjIycWRuWVQtdDhLV2dkaE56cGN2M01fSHpQZFUzM0FfMFAwMV9KY2RhQXJZYTJqT2hhLS1HaWpvWWtCcFJVeW5wS3R2WGc?oc=5",
+      "published": "2026-10-15T13:38:00.000Z",
+      "source": "Investing.com UK",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Taiwan Semiconductor Q3 Earnings & Revenues Top Estimates, Margins Up",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTjM3Y0hGNm1MbkpFRUlvcjJvOEpyb2VwZ01VRDBIcjdTU09TMlFpZlg4dzE5NUc5UzQ3N2MzYmNJMnYtQkR3ZmlPSTI2TTJVVk5Ca1JQT0htblZYWDZldFpZVnJxVDlYQWRXZk1IRlBYenRIeVN1N2VzVmdGa1lYLXNCYXo3MVE3RGJUY09pNGVUclQ5MS1Sdkt3MkVlVDVmdEFOdWYwZk9aYUVvZ0w1QUZCT1JvMTZXOWd6S3JRMA?oc=5",
+      "published": "2026-10-15T13:18:00.000Z",
+      "source": "TradingView",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Ramp's Eric Glyman on hitting $60B valuation: We offer customers an increasingly valuable product",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMWFIS1Y3SG8wXzFfTTFkcnZHV3FfUkV5RE1LdTk3Y0ZsOFZ4X3VDdUxsWjVmeUdSYzNpcy04djRZb1AyMDlNbEZHWHFGN3ZySHRsaENjWC1obTBwTnROQzRuVm1FNlc3LWZELWNJTFl2WmZDb2U0dGsyNFRCV3B6czRYcEJkaXFwWHhwTHhoY0Y0MkREUHJwZHdqUUNXbUwwREdOdGVoRzg4a2ozeGRMMjdlTE4wbTdESVNaUlhkdFNJalpzQWtjX1hBZE9ZSTJhT080?oc=5",
+      "published": "2026-10-15T13:15:29.000Z",
+      "source": "CNBC",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Experts react to September PPI report",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0I5Y2xjdURSaF8xUERBdURuOTNIdVRYbjV2Y0h3d2RtU3doOFpQNkdaY05hR3JmZ2k1Ym8xY1hmbmt0b3VQUF93dlh6bHM1c0t4THJWSUVZLXhqWGJoTWdJMnBxY09uTFlnTUd5X0NTSzE2VC1rU2Fsd2RDb1hPWmhqNEZhQjQ?oc=5",
+      "published": "2026-10-15T13:03:00.000Z",
+      "source": "CNBC",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Update: US Equity Futures Mixed Pre-Bell as Traders Assess AI Overspending Concerns, Raised Odds of Fed Rate Increase",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTXNnNF9rVG9xeGF0cHJLTUlubDVKeFp5c0NiTzRiSWNKb20xb0J6eGZNMVVBek5kZW1WRm1lbndQUk9GRHNHSjNwY2RINXB3ZFZTRE93cXZ4VEZNeldVbERsU3JDN21ScmFsTUpaV0tXdFdjZFdhcXI3T3pyWDVCdktB?oc=5",
+      "published": "2026-10-15T13:01:50.000Z",
+      "source": "Yahoo! Finance Canada",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Wells Fargo Q3 Earnings Call Highlights Higher Interest Income Outlook",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelFXT1RmTUV4ZjdmWFQ1MkJ5NVVtTjdjdkljSUVqQk5NNk14S3lpaEd4d2gyOFgxR2Y1Rl96MXRDdTNFSFdwVFJZLXNrQy1rdWptS2ZzVXFXSW85Qzh5RmR1S296VVdYMndnUnBjMk9YVzZnZm9SLWFpT1BDRTVsQTFTQWt1SGRIcHo3NWdTZWtWOXhpUnZqZE9LV2RjTnZxZjZaUkpQV3owX0c1a19Uak5hTFl0MVB6bE9lQW44b1dsZFpB?oc=5",
+      "published": "2026-10-15T13:00:00.000Z",
+      "source": "TradingView",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "PPI",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE53aDQ5VHl6RkwtTGRBNVlwTkM0dkp3NzhlLWhTUzhFZDB3Y1FxUzJ1eUdJeXpMVnJHZ1p5bFl3?oc=5",
+      "published": "2026-10-15T12:58:17.000Z",
+      "source": "CNBC",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Crypto Weekly: Sector scrutiny may surge, Securitize launches stock",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSEtUaHFrcFhVMHV6VTJCaVNabmZaWnZ4Zzlobk0zWjk4MU1QaG9GczdaSVl4d2YyZl9kem9rRXQ5djNERVZpR1VTWFVINXRZWWNQc0xRaTd2U041TEk0eXhZOVRiR0dkQUFFSC1CeEFMYUlDTzNFcl9tNU9OaURmUmlRTjhrQQ?oc=5",
+      "published": "2026-10-15T12:49:25.000Z",
+      "source": "Reuters",
+      "category": "公司",
+      "high": false,
+      "reason": "公司基本面"
+    },
+    {
+      "title": "Cowboy Space CEO Baiju Bhatt on building data centers in space",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0l5Ykk5c3ZvaGp2SjNYVWRXbmwtWnZNVFV2d0RrMUNnNlRZVGplMUV4WnNUNmZ1Smtjem5jck9iOTJkS3Z3M1NtX3hlNHNqTGNRVFdqV1lXV2R1ZjE2WmhibHN3YUVhaEpWeUwzcXNWeTdoazM2N1pYbmpQV2hkcjFKWHBLdDl6ZW5Yc0I4Tk9rRVdnLWdieS1KLUdRVnFqLWtJcnVQdUE?oc=5",
+      "published": "2026-10-15T12:48:00.000Z",
+      "source": "CNBC",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZY1NUZjhHeVA2REtJMEQ5MUFyTzVOWXBBNFZWMDdPOFZONHFBcFFzS3lVampLYWNvQUhXZ05HV3Y0cm9UekVaSmttaU1idDZOWHlZWjdiejRXYkF3aUpCejZRenBfY2lwM1ZBLXJ4ZjbSAXZBVV95cUxQMEdwUVpTdThmSlZuaDVQS1d5cXliTEY4ZmxWN3hCcjlJOWRIckc4Q0dOejU5Z25iZGo5VXlONmFyc2VtUW80Ql8yT0dnazVWRkl1R21Xc1RLSjF0NDh2SmZxakRVYWx6NmljUE80Ymw1QVN1V1d3?oc=5",
+      "published": "2026-10-15T12:40:58.000Z",
+      "source": "CNBC",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "FMC Shares Plunge 35% as Company Cuts Q3 2026 Outlook Amid Weak Demand and Inventory Pressures",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ3J5NS12V1RlSmRUR1k0U1FjU1hTclE5TVg3ang3Y1JKVDI2VVZ1QVU5MTNpVmExRHBjalVCeE1MQXRWRkRNU1Z5U2p5ZkN2eVlxdTRjX2w1MmFhbFo4TmdTNFdoWEx1cC1heFY5eDVXa0VuTzN1ZGs3aWFfcnhIT0dES05wNmNtNEZ2bXhWdzM4OGFfbXo0aQ?oc=5",
+      "published": "2026-10-15T12:40:46.000Z",
+      "source": "Yahoo Finance",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "TSMC Q3 Earnings Preview Faces High Bar Amid AI Stock Jitters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUo4QWZFRUpRS1M2SF9BaEdnSUI5ZHZueXYwT3V4aU5kVThla1Z3bldXX1hlQ3dzSmZ2RVBjc1ZEaWJLb3IyLXhTYU5lN01wZjNkbmZDNE9sU3puQmk5aW92RjZybkg4V0o1UGdDcW1lVDdyVUUxRXlMVlRMV1psdFJpenk5ZjlQdWwzbGR3NVJEYUU5MkJ6SHcxczZlUQ?oc=5",
+      "published": "2026-10-15T12:30:00.000Z",
+      "source": "Gotrade",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "West Virginia JB McCuskey on OpenAI lawsuit: The products have been proven to be unsafe for children",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMlBFbUdZYlpsZUNfNWxrdkxfVnRYbUJIZ3F6UERLZTRIM1N4WTI4RVdFWkVVeEFNQjNGWlNEZFl4Q05UeGhPeGZTM3B3TTVQZEM0cy1KMFAxR1lKYWpmcVZIU2kzRzBLZmxXREJqZkpGeDl1dmU0SXJwMUR3c2ZRWlZtNUJRR0VFOXNSdF9IdWkwY09qWVowMndFcWpQeE5oekx3eEROWUFhZDI2a3BYTVRQUnZ4eHU4T0RpTXF1NDh5dmlrbmNZSGEtM2VndWNEb2F1YkFFbXNQdw?oc=5",
+      "published": "2026-10-15T12:27:59.000Z",
+      "source": "CNBC",
+      "category": "政策",
+      "high": false,
+      "reason": "规则与交易"
+    },
+    {
+      "title": "ManpowerGroup’s (NYSE:MAN) Q3 2026 Earnings Results: Revenue In Line With Expectations But Stock Drops 17.7%",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMnVMb09YRF9FMTJSOHRUWm12MTNlTzlpaTNJNEtYSVlULW9RekJjdjFMa0paeDlEQzBXaXBOekdIcGUyLU80VDZxdGszZ1lMOHdhV3NlWHJMdFpmRWwyNkx2VWh0Mk5RanhQcnVuNHl1Tno2VnFKMThVaGdtR0NNVGpybnJmeGNNdVdtSnFOOE1JQV9QRlFBOWtmTjJjV0phOC03Z3NuRWMwalBJUmFLbXpDLTFNQUxyeXJYeC1vX1dfZlJCcDVXSWVHVm9PZXZ0dzQ5elhtWXNSOWhtSWhGaklPRERBUTllQXEyMVVnS29fcWo3WFF4Tk1EclBRdllYMHVhXzdn?oc=5",
+      "published": "2026-10-15T12:20:00.000Z",
+      "source": "FinancialContent",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Leases covering 60 million square feet were signed by Prologis, which cut its 2026 earnings outlook.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ08teGJEQm1ucXI4aU0zU0pBWk55RXJxb2JpLTFUTi1Wa1JxYlZIVEdTRmlfTFplVVFlTmtNYWc1OTNOZTZKa0tTZzJlVnU0V2pvZ2owWFV5dExINTFDRlVTbFMxSmEtQzB4V3ZWa293TVRvR1Z6dW93LTZfREs1dVJNajY3M052Z2VxYzlXZVVWYTA?oc=5",
+      "published": "2026-10-15T12:00:00.000Z",
+      "source": "Stock Titan",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Rates need to stabilize for stocks to move higher again, says Greg Fleming",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTVGX0szdHF4bDRiX0lELWJ0NFRZX3Eza1cwand4VWdGZUdJaF9BY1JqeEFxN3hXM0xIaUxMX0dyd2swTk54OVZnaTBvcTktbTBRcGlBQ0Z5eHFOSGZ2YXdzNktLdXBNMzhSajNVWDFRaGNsTHF1UFRVQzVvZGZlNFJVeWlnOFF0dTV0eFk4SElXYktxZHNfRk9IdEl4NVFmbUxkdXJwek8xX05WZ0Qyejh1SWFoeDg?oc=5",
+      "published": "2026-10-15T11:40:00.000Z",
+      "source": "CNBC",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Roger Ferguson on declining CEO confidence, state of the economy and the Fed's rate outlook",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3ZlQndRa2hsNkU1NFp3OEREdWQ3WE0xdldfT2QxcUkyRmE0NUdlSDV6UEJ6LWFSUW5zTkxTSGJGUHoyX0V4YUVfclhUTXRrS3h4RmtXTlNLOHkxby1oMW1iSE1rQzVfM3pVUUpDR0dva19zQXg1aG1RUTV3MnBfOE1oUTFvdHd4dHJSN0dTX1dlVVFQbDVQanNaUFdUMU42RFBhOWRKanV4b2VVRks5UGl2Y01zSGhsS29Sb1RoMHhENVRRLWVYcUhlX0I?oc=5",
+      "published": "2026-10-15T11:38:32.000Z",
+      "source": "CNBC",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "US Bancorp (NYSE:USB) Q3 Earnings Meet Consensus as Revenue Slightly Misses",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRWl4bHQxbkszY2pNbW9uME0yZUl0TmM2M2lfcmVldGNiTTZTbVV5c2ctbDhTQlN3b3hISmp3ZmJMZmVaOEhjcFZLdFVyandjaTB5SW5RYUtBRjhoTjVhRGxTZG9OWlFhcFVYQjBib0dRTWJNeXN3RVoxZEtpQ2JQbkw5U1kzSlU3NG1TR3p5aFFpN0RHUWQ2RVdrR0thOXYyc29veG4yUVJlSVV4S0JBaW93SnY5Vm1SX1cxcVBIZGY?oc=5",
+      "published": "2026-10-15T11:31:03.000Z",
+      "source": "ChartMill",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Morning Call Sheet: Tech sell-off, inflation and Fed rate outlook",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmpJdE5MWFBOdXhWYWdIY2R1Mlllbm5IcVVER3JtVENJVXJPbXFxWi1PSDN2Z0FOaFFpLVNpVzVxSHh2WVRwM3dVanlWTnlNWF9leUhvdmZPZ0c1SG95NjRXd2VoVkNRdmxLTUs5eTVLSWh6MWxtNDVvVkNqT2p3M252SUVQVWs1WjVDLXB5dm1henpGMHg0emlKOHFObHU2aTI1RUk5amN1Zw?oc=5",
+      "published": "2026-10-15T11:10:17.000Z",
+      "source": "CNBC",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Ukraine says it damaged six Russian military jets in missile strike on airfield",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSzdWb21QWW1hVWVwNEJOd2lvNWpOaHYxejhpRzM2SHZoY1VXS3ZLRVRLS1dzZFZRRkV5blo3Rm1xNlFMOHV1M2RQbU43NndCR0tGUURXRUdZclhXQnAteF9pcG90Ql9kbmdVSTcta0tKRkQ5REMxR1BsV0JYLXVFZlhqa0VpRmlsXzZJV29WWW5FSEJLQ3Vnb0dSdkg2OFFkbzdLU1VFMXVtaUttQV9UY2l0MS1CZlZnX3NvSW5hZnpqbHNjZ09BRTBXSmxpTElrb3c?oc=5",
+      "published": "2026-10-15T11:01:31.000Z",
+      "source": "Reuters",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Warsh Takes IMF Stage as Hot Inflation Spurs Rate Hike Bets",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaktMZDgxRUI3RGFpOGlLUkt4TDlnYUVhWkNwcWlSSE83bWstR19tQ0I5NTVQTkFzUWdSYkhhSGZqTHk1Z2taX2lYYlE2RTZCUV9FVHB0V004TEF2VVRzbjItOFJjanR4enBBeTZpTFN4NzdXNmRibnNWY1MzcHNxcDVmY3BFLVJRWTFoYWE3Y0Roa3d3aG9wWk9Qd21CUU1pXzItU1d4elQ3NlozY1k5c2VGNA?oc=5",
+      "published": "2026-10-15T11:00:02.000Z",
+      "source": "Bloomberg",
+      "category": "宏观",
+      "high": true,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Micron Gets Musk Boost: Buy the Stock on a Dip With ETFs?",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYi0zU2xKMUNZOFQ5aHVoQVJGcHIxZGYweThBUm8wZm40bXBVR1B2UEpIRkVvdUpjZ1ZBZHZYZ0JkaDFMcjA4eXppaHhVb1JMVFdjSVoxZTNtYk5aN1JsYmNhTmNYZmw4YTB6cEFMLWEzN0xFdU8xUDNYRkdmcjdtZFY2Z19VamRuZGJHU3pjRFNCY3V3Yy1wVHRKZ2s2UThIVHhHSk1LUUdQcEMyNVZ4MQ?oc=5",
+      "published": "2026-10-15T11:00:00.000Z",
+      "source": "TradingView",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Wise Group (NasdaqGS:WSE) Stock Forecast & Analyst Predictions",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUFJyYWFpUmhaYXJaRW9JV1dURW9qVjhsUEk1QW4xZ2tMUkZRc29Pb25TenhSUk5vY245T1BaSUxYc2VvMFdHVEpnN3lqU19YZFBjZmZ1QThScmdoLWdTSE9hM2sycUpOd1ptbUlJeEprekJiUXRGQ3lqWklpaDk0T01pX0Q4UHBSbG9N?oc=5",
+      "published": "2026-10-15T10:53:14.000Z",
+      "source": "Simply Wall Street",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Bending Spoons shares soar after Berkshire reveals $330M investment, taking a 4% stake",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFdQX1oxZmtBanQ1T1U1VTJrT3V2RktvczJjdG5fcVFkR0JGTVpnTnRwUmp1OXdCTXV6ekF6a3RVSldjQ1VuYnBGQk9WaWVRald5c0JrZDRjN0R4b1B5ZWdnMnAzTi03UFZzVVlfcjFMZmJKaVhrdkdyWHRacmhmUXZxaUZsUXBNbnBzbVZWcG5FOTlWWXFjOWtSYkJ1SnFOR09LX1EzOHlUSGx2ZVo1c2s3b2hhcUFDeFhLdmVrVldHbkFXckRPa2NXUlZqTlU?oc=5",
+      "published": "2026-10-15T10:47:18.000Z",
+      "source": "CNBC",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Don't Expect The Year-End Rally - The Selloff Is Just Getting Started",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU1ZnUEdYa1ZvcFJOZElEd2F4TFlCRWMtM2VXT1lqZ1JZQjlwWTk5WUJ5bklNVnZRRFFRbXNldVdLUDVKZ1Z6SUo3bkxLanBTVXhkV1pwem5ES2JqSFhfbFZ4Ullyd0ExcEFON2FEUFZWYlZaTXprU2N4dGowT1cxZ3pZTy01N1lqN2VvLVdDZzlmbzFiVG1IaDNuXzBQOFVfX2hXbkZWdDRkZHc?oc=5",
+      "published": "2026-10-15T10:37:37.000Z",
+      "source": "Seeking Alpha",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Earnings call transcript: Fastned Q3 2026 revenue growth lifts results, shares fall 10%",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVzM1S213eVBJbjFIVHUwX2ZfeDhvaC1OZmlDSl9rY0tUSW51YU9ZQmhBcVdCSzdydTBfYnlQSWY1UmNqcDlqYnRzQVhyb0szTjlzMm9abURJUmNFbjVrdmozeHUwdU1walNXN0gzaGlmSnIyOEd6VGJIVzN1Z0FYT2RjM2Ftdk00Qk5DcU5HRmlQR2RWMmQ4WlhVdkRhWVhHalR4dlpBZ2lhUFJfNlo4VmhBZzlTZ3IwMHJ3Z0pOMjlxbVNvTE55a29vNTFnTHNiOW1icUUtVQ?oc=5",
+      "published": "2026-10-15T10:19:03.000Z",
+      "source": "Investing.com",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Dollar retreats from 18-month high despite strong inflation data",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3RhaFpXd1N0Q0w4VVdpWXU5WkEzV3dYM1pqM19hWHFRTjVMQ1c1YVNMejc2enVRWG1PY2RibV9FSllOTkg2eXRGalZoUGRmMk0tQlJPWFNJV1p3eEduZnhxUm0yaHdhUE1RTHdjeUF2NDlUUkJLYW4tWEdWbHUtdUN5VHRLRDdVZVMxRDNjVGlPZFdqQnNWUHIxUXA0bnkzT3hyc3pxcjJiRzZLUXZLNU41LTdFRDTSAbwBQVVfeXFMT2V2NzVUaUpqMTVVM0w0YWRfVHRveVJNNXFWZkdOeTBnZjlBV2JaMExQaDQ4T2tnWF92ZEFHVklBUk9YdGNhQ2tTX2Q5WWNFUVhST1c3bEVacG52XzJfazVISFBXaWpPU1dSdnFKalE3RnVkbHNaYk91LXJ5U082YlRleXM5QmZxenNIeGV0ZHNiUlE3cHNSbW03UUFPWGNyRzhmVDN4TUJfR0ZQcFpTaVlEb1prMGxMV2ZPQUM?oc=5",
+      "published": "2026-10-15T10:09:35.000Z",
+      "source": "CNBC",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "A Staggering 84% of S&P 500 Stocks Are Now in Correction Territory, and History Says This Foreshadows Disaster for Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXJ2N25aNm1DRnZ2UFhXMUN2R0lEOXNOcThGWjMxaUlZbzFiQlFYeFNhLVM0eXRzWm40dlJ5LWxXcVRZNG1aQWp6cWluYWllU3JaWFRNTzlVX1F5bkVnNk9hRzhhM3E0NGt0ZHlhbUxSZlBqX1BFUjcyTXRKWGtZUFFpaUx0NFlsQzlyNHNraFhYZnN6bUxSRFlZUmZfaVF6SEpGc0YwTHdKWXFiQVJsRWZseElubWk2Y2VYVG90S0k0RzV6Q1hn?oc=5",
+      "published": "2026-10-15T10:06:00.000Z",
+      "source": "The Motley Fool",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "TSMC reports record profit as TSMC stock trades at EUR 376.00",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSXlCQlJ1TTRxa0ZJTWJ5c1NJMktEZ25md21XcEZkLVk3MENka3ZPN0pqMjZiSW1OcER4b1dJS2JUMktweVdtVzFhTDdiN0hHWGdaSzZjaDl3amtBWnpUbmRWRi1tZk44NjB2TEVhMExSTmxlb3puT2NjQXpNb1FXeFZZS2pGb1JmcjlLYW9SWVRZanBHY2dxeDhpY1B0MjhsNlEzbVpBX1RrUmMtYjhMZ29oaC1yVjFVXzZhMkhKa3V5dw?oc=5",
+      "published": "2026-10-15T09:53:34.000Z",
+      "source": "ad-hoc-news.de",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "More drops for AI stocks drag Wall Street lower after whipping around the world",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd3Q1WFNyRjF5R3l0eENTUW1ZQy1PbFEzZ291Y3hCM1llTEc4czBwY25jQ0dwekFiRjFhUVhsY0hLTk4tR0ZENWVZd3FfbzdTaUtSc3lvSHVWOGt5M0p4T0tFZXJ3RE1mYnNaS0NsX3l5VFUwMnd1eWFkNmFhaHZLZEp6YmtucEM5RFFlTWJlZXZNMnRoX3l2WnBPTzRzLW1qOXRoa3l2MmlEWk9ZS05MMl9fMXlDZXhDRV9J?oc=5",
+      "published": "2026-10-15T09:45:01.000Z",
+      "source": "KSAT",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "AI Giants Earnings Reports Release: Trigger Sharp Stock Price Surge - Latest Market Update",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLcmgwWGp0M1NGbnJzb29HbjdIU2RFUFdHSnVWMDJCLUlJVnBYN0d4NWJyQXp2RVA4VWxVbVREY1pIdnJSRXAxMTZzU1prVFExaHBV?oc=5",
+      "published": "2026-10-15T09:32:20.000Z",
+      "source": "36Kr",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "SK Hynix’s Q2 Miss Triggers Memory Stock Rout: MU, SNDK Slip But STX Holds Up In Green After Q4 Strong Report",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPa2dTLUFEbHN0RVZ3TGRtTko2bDZXWWJMUmxNYzBZb29CYmJVX3lFVlItZUwySFZpYW1TQXRydFhjbExROVAtSEU0NTV4NGJKd1dYRVhaTjU1Z0d4VmpsZ1BpUGROR2UyS3BkT21SRGt1ZHZieXZYWGVBR3kyN3VaUXlndHpPajJFSDM0MDlpMjR3VktlVkN0X0NWTkVPWVlkeWhXUG5wUk9uWnNVeS02ZVo3a3VLOVZwSmdHMnMzc3dpYnpJZ0NyblFxQTlXTjBVVkhqQ2dGbDgwb1pNclVDdUxzYTczdnl5QXRxd0x1UG92Um9KSmpUV1NtRnNPVExo?oc=5",
+      "published": "2026-10-15T09:30:57.000Z",
+      "source": "Stocktwits",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQalhWcWlzMjVxa3JBblh4aUhxR0FkWGFlWHNQZkxWSndTdVRGS1JXS1daZzEwSDRtSmJ2cU5aRjdrb000NlFITjZPeFAyZDZqYUhuQmNBbmdiNzJtaGY0bVktV3NyU1hILVJ0VTg3dExIb3pNT21hREF3VVllenF3RHpMMNIBiAFBVV95cUxNdjhXc18yU0dxVnRCcHFGV2wyX1hSUmE4ZnRiNHp2UmV3dzV3dmN5cS1VTHJNbVRpZTFhT1RUOUtZd25JdUtBMU9iWlROZHBkWk05NUZmWlZyU01zcEpIMDBrREk5cFRhRHNhd01ZSGxBNVdTdnVsUDFSREQ0aGV4WEhQemFjNFB3?oc=5",
+      "published": "2026-10-15T09:30:06.000Z",
+      "source": "CNBC",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "TSMC (TSM) Stock Forecast: June Revenue Up 68%, Q2 Earnings Tomorrow; Is $438 the Next Stop?",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ1JnUDhUX2U1ZXlyTk1ZZlJZQUlCanB0VnhQVTE2RktleVdTd2Z5a2JxS25KZGJuYTIzc1duU2lvVkZXMU16WlVSRzB3a2tkQW11czBQUF80VFdJX1pQM2tBelY1akNLaEZlbXF3QVJ5eVNKNGM2TWh1S3ByREV5TDBmUmRTT05kSDNxMXhaZVhDSEhOYXc4WjRJVm9CN0xaLTVQbW1RLWR5WXhzb1RhZ0dFRFdCM3ltVmx3dy1VQ3JqSFlnMjU0ejFGN2V1cWNa?oc=5",
+      "published": "2026-10-15T08:51:17.000Z",
+      "source": "TradingKey",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORElLSHBNa1VvRjk5dmRWaE5HR21Hd3JwY0tBX19SRUpOOTZTd2RlV2tDN3RVa1lPd0NZU2tUQVBCMWxtclJpeE5jZzlYNUtGaXdIeFFBR0xsSmVVQ1lreURiLTFOcjN6eTZHZzdmM19aNzZUSHB1dGFlcFlVX0gxckN6NDFMemNnbnZWOVVBYTFMZDl4QWI2cFFUQ2JpckFqSVk5eTU2cU9wcHpBQnZaQTVRYVZSTFhVbVE?oc=5",
+      "published": "2026-10-15T08:39:00.000Z",
+      "source": "The Guardian",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Cintas raises fiscal 2027 guidance. Cintas stock is valued at USD 82.8 billion",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ0NOczYtNUZpOTVDSGgyWWU5QWxhdlR0aC02ZW1pZ01FdTI0Ri04dGtvREZ3TXJRME5IWHZDWWtNMFdtRHNyTWR5MTR4NXdVSWJpMk1Xdno1ZTVnREkxdDRENUlNUWN6Q1J1bHdMU05iZERjdzNQOTBfRzhYZ3hhZi1GTG5obV9uS0FKRjNwT0FfWlZ2Wm5ob0t2a3hpS3lCc3FmVy1oY3FJRll0SDZ4alg1M1E0WEFjM2FUVjhYRjBHMVpOZUY1ZGY4QkFNNEh3eWMzV1k5OA?oc=5",
+      "published": "2026-10-15T08:29:36.000Z",
+      "source": "ad-hoc-news.de",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "5 Revealing Analyst Questions From AZZ’s Q3 Earnings Call",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkd5RUNjTE5DOXM4eVVNNDZFYTNBeHl5YjF0dTVKOHJXQ01pc1dYMVpXNkhDQ0dMa2t1RUFuVG0wQ0VSdEhmeHg5TjJuYVp1cUM5VHI5RjdKdUprTkp5YjhPZ241SDgycTUwYUJrRmpTSUUtREZ0cXk3WU1iMGM0Z2p1cnZ4d2R3RVRhajZuNWdQSHFLQlVFNWgxM0dna24xaGpwN1VHQ3VKQnFLcUhxUW1lWXpaTVhi?oc=5",
+      "published": "2026-10-15T08:21:02.000Z",
+      "source": "StockStory",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "KBC Group raised 2026 guidance as KBC Group stock costs EUR 121.18",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQakE5NDlVLWE2UUpHSmJrcWpyMnJ1QnVuZnpzRFBmNkpkNE5tcjR6V0RsR1pMOFJxalhrb2gyX2JjUVNER05LWk9uLWplZkI1Z0pZZndzV1IzUEg3b0Z3M0RkYWVsWlNHcGJnSkx1UGlRcXJGOHVoVWtDb0NhUmJGYm9hdXV6LTBjWkJBOThBUG0zSEZDTVFjTTB2V3kybUJteXgySzB6VHhZZWVXWHdESFNFMmJNRXE0azFYRzNKdjRLTURLUTFuYQ?oc=5",
+      "published": "2026-10-15T08:17:15.000Z",
+      "source": "ad-hoc-news.de",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Samsung Electronics reports record profit: Samsung Electronics stock sits 18.16 percent below high",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSnJTZF83dTVZYmJnX3oxaHBUeTJDcjVscVphdVVDaC1NdmhadjdldExQelI4R1pxeVFpMkFzbXAwY25zVGN2OWlkTTRZOExpcm04MTNqeFpSbTN3a2ltTnBYYzlaOFdScGdWLVZpZG1DWGtIcTRkSHZjSUNzUmN5NHBZSXFVODh2TG9ocFFRTVhZZ3ZheGw1Qi1hM0VNcGNzd2ZLZWdHVGhVbGEzSTR0b011NExtaXFFTlF4a0FIc2RqN2xXeVBKX2l1YlRLMHlh?oc=5",
+      "published": "2026-10-15T08:07:42.000Z",
+      "source": "ad-hoc-news.de",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTG9TMW5xNVlWX1Z1M2tfVmlrX09EZkoxQjFSTFBoWjRBVkE5WTlHYnM2T0hGM3hqSjVHdjZxUHR4ZXhiYmRGYlhyQ3U0ZnR6UEVIUVFSVGt5cUNMQWxQZTVsY0cyUEhjaVdaZl9sY05OdzNkeEk0VHNJb0hZUzZaSGd6TUxyOXfSAYwBQVVfeXFMTkpIcEhpSzBodHBTMk9lMjdSZnVSTnY0M0xzSEhYVmVJbC11ZTF3U1lIekRJWnVQZWRoQVlpRm1DcnFDaWtlWnBGU3czWnRPLVlMaHZsdkdPNEk2cTdOclVSOXN3NzdzY0FmaXhDbVFxaWRZUDh3SE56YjRKWjlFQlE1YmNJSi1fVlVSaTM?oc=5",
+      "published": "2026-10-15T07:52:47.000Z",
+      "source": "CNBC",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Tech sell-off drags Asian stocks lower as markets in South Korea and Japan sink",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pdzVwaXJXZzUzR2ZMc2dlM1JYZGhpMWZSeHdkMmNPeVREdU91UlRyWE5zV09RQ0c3OTNVU2lFaTVpZ19DQ2dVdE5yT0tZTWs1dUtKQmNfYkJpdWJRS1E?oc=5",
+      "published": "2026-10-15T07:29:28.000Z",
+      "source": "朝日新聞",
+      "category": "市场",
+      "high": false,
+      "reason": "市场情绪"
+    },
+    {
+      "title": "TSMC Posts Record Profit and Beats Guidance as Chip Rout Hits Shares",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjRaaHhHQ2V2Y0JvUzhKRzlJdFA1RHVQMGtiTEdFYWtra2JnTFVOSTdlRGRmSlNNN2lwSFY5bkp6UUl4dVNlYzJsdUhzU1ZrUDd2cjB1VTRfbGlZN01QWW1vUGpMakNHeHdRaXJoYVpnV0ZNNW53eFNlOUIwVGlQWDhseFc1V1UyalVOOEk1SlZRd3cxU01nSWFISzdkblZ1Y1NEZkNaRE4?oc=5",
+      "published": "2026-10-15T06:50:07.000Z",
+      "source": "AskTraders.com",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "TSMC Q3 Earnings Beat Estimates: Net Profit Surges 69% to Record High as AI Demand Remains Strong",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVzVXcHN6Z194Y1pLS2hqYzdJRThZOWx4dHI2dFRKSjFUSkhKeVo2WlR6QmxkY052QzNJeXZLa0tkTkloQWpRSkZJRHJLd1FxNzE2SHo2MmdUSEZ3Uzd0UVBBYUtFNi1PSW8xZHJsbnlCdy1zY3hSSGZMMUNlLXg1NjBOSlRPZElIY0NfV2hiN1V6Sk54alVIVTI0STREU0dpTFc4OGtKYUNvRnFXVWFSem85MW1CeENDRl9tUkhIcG85aFpwVUE?oc=5",
+      "published": "2026-10-15T06:36:47.000Z",
+      "source": "TradingKey",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "TSMC earnings crush estimates as profit jumps 69%, but stock still faces big test",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTUJUWGl5TUUxWWZuQy1RSU5oSEYzc2JLMTRhT2FMeE1jT281Y2pnV09HNzRJUDZSbE1CNGVkRE5Jb0RNY0stSkdFNTBHcnhkSXVhN0hxeGR4QTVBZFRRRUNCeURQanJNUkVVLUo0WDRVX3FCTmxJUTVmLWV3VC1TdzVEV3IzdXZzNGVxMzgwejF6RmpCeHhmR2hmc0haU0daYWRCc3FfTlh2UFBFUmtSeG1uYmhxeGR3cU9lUjdVb3poQkFLdHladlhXZjN3T01H?oc=5",
+      "published": "2026-10-15T05:57:40.000Z",
+      "source": "TradingView",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Stocks end lower as hot inflation data stirs rate-hike worries",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JZmZVeGo2b2I3Mk5tMHhTakJIQXBQTU13bFk2bzNuQkV5cmhFWWpyY0djX3AwUDdFdkktc1l1YVNqN2t6WlJQMVN1SHRMR1oyQmg2MUZobnIyZTZobUFRR3c3TUlBNFE?oc=5",
+      "published": "2026-10-15T05:43:22.000Z",
+      "source": "Reuters",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ma2pzMWkya2t5N2Jvbk96dlBYZWtzMlpnSlpDdWFpbldxVEdFcjFkdWV6TGxpa09HU3dXSGNWVU5uZF9xdWJNZmlKTWNKQjNCeEFDQVE5aVI5V0VaWFIwS194VHp1N1pUZHVSNW8ySjJCT1R3OHNjQXJEemUtUdIBgwFBVV95cUxPeVg2MXNaS1g3NzQxQXV5WjFWazhxdXlTYm1IQWtVSUhLUDdDaG1xemFrdUZ6bF9LazJwSThpcGwwbEROWEVhZEkyZ0lGY1dabkJhRjVzSTd2XzB3Q05JQVFQSjdOWF9rUEtWa2s2MG1ueVdFMTdwVHpJVjJyenJDT3d2MA?oc=5",
+      "published": "2026-10-15T05:37:31.000Z",
+      "source": "CNBC",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    },
+    {
+      "title": "Asian markets fall on tech stock rout as high US inflation weighs on Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWlk1QWtmOGFEUWtOcVdRNVJwelJuMVRhSTA4WF9neldRaFRMcExzZWkyUGN3bnlTUS1XRDBrb1ZLWUpJdllRUVE2Y1lFaGVKWVE5cFdqeTM2cGNHLUNsN2hqUkd1ZGJNVEc1ZzREVHZqMlJFT3JERXEyLWtjb0QxYnRWV3dsTEZFNEROd09BYWlmVWM4TUhtUF9vNE5RVU1JelhLTTFRcXp0ekpPVnhFYmEydU5pajJxLW9zQzVwOURYM19MTnFrTVJma3FOc3ZJYWEyelBSMWs?oc=5",
+      "published": "2026-10-15T05:22:37.000Z",
+      "source": "The National",
+      "category": "宏观",
+      "high": false,
+      "reason": "利率与经济"
+    },
+    {
+      "title": "Tech Mahindra Q2 results: Net profit likely to see double-digit growth; Key focus on bonus shares, guidance and dividend",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMkVBNTlRankyRWJ3OGJIWjREZ1AyQ3VwaEVTdmJSX0t2M3hxQU0wYzlES0dnV2pjZ0UydlJJUTVxS2V1ckplbGV4VGF6Vl9KNkFYc2NGRXBod1o5V3d4QVJIQWc5RXBNVmdwMDNwLWR1T2gybjZ2cTRZZlotWlJsQ2d3d1JuZFJqTHJSZ0xPWTZtbGh2WTg2M25TRGdxZlc1VkxzaU5SRkl1dy1HS1VqNmlrREU0cDdwV0lYTFB6azZrYVY4RUNEOUl6Zktta2dNU1RXSjNlZmJOUlhXMDdWMWVaMklQQi1LS29uVFplaHZlVGhKVmdrZ2lUMUVyUkVDTTJ5dU4ybWo?oc=5",
+      "published": "2026-10-15T05:10:16.000Z",
+      "source": "Upstox",
+      "category": "财报",
+      "high": false,
+      "reason": "业绩与预期"
+    }
+  ],
+  "feeds": 11,
+  "errors": 0,
+  "fetchedAt": "2026-10-16T04:38:21.889Z"
+}
